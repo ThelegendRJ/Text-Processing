@@ -1,4 +1,4 @@
-**Text-as-Data Coursework**
+**Text Processing**
 
 It focuses on implementing and evaluating a multiple-choice question-answering system using various text processing and machine learning techniques.
 
